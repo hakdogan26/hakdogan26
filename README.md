@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-**hsnakd/hsnakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hakdogan26/hakdogan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="">
-  <img alt="github contribution snake animation" src="https://github.com/hsnakd/hsnakd/blob/main/snake.svg">
+  <img alt="github contribution snake animation" src="https://github.com/hakdogan26/hakdogan26/blob/main/snake.svg">
   </a>
 </div>
 
