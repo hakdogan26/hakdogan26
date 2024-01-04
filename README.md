@@ -180,14 +180,14 @@ Here are some ideas to get you started:
  <h2 align="center"> 📈 Stats </p>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hsnakd&count_private=true&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hakdogan26&count_private=true&show_icons=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnakd&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hakdogan26&theme=tokyonight"/>
 </p></br>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnakd&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakdogan26&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -198,7 +198,7 @@ Here are some ideas to get you started:
   <h2 align="center"> 📊 Github Activity Graph </p>
  
 
-[![hsnakd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hsnakd&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hsnakd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hakdogan26&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
